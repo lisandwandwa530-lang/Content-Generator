@@ -1,0 +1,6 @@
+{
+  "name": "PromptStudio AI",
+  "description": "Professional full-stack AI studio for generating text, images, and code with strict prompt accuracy and reusable prompt templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
